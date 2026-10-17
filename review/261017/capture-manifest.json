@@ -1,0 +1,139 @@
+{
+  "capturedAt": "2026-10-17T14:45:07.758Z",
+  "source": "http://127.0.0.1:5210/",
+  "note": "Unedited browser screenshots. Reduced-motion preference freezes animation. Staged progress is used only for evidence/court previews in an isolated browser; use the gameplay smoke for completion verification.",
+  "captures": [
+    {
+      "file": "01-cases.png",
+      "title": "三案選單",
+      "caption": "三份卷宗改為 KTV、DNA 鑑定、少年鬥毆；從首頁選案進入。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 1228664,
+      "sha256": "09440793ca42eff9a74dccb7707a20f1970dfc633b6dcee60278a6f12a47f93c"
+    },
+    {
+      "file": "02-rules.png",
+      "title": "開始前先說明流程",
+      "caption": "先說明移動、互動、蒐證與進庭條件。此處規則說明仍可替換為企劃方提供的正式文案。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 743098,
+      "sha256": "91223db7a6fa925066b468bf3b8546fb4bb98b4e2df4ea618c44275cf6559c94"
+    },
+    {
+      "file": "03-investigation.png",
+      "title": "2D 現場調查",
+      "caption": "阿生案改為四件證物；收齊本案證物後才出現進入法庭的按鈕。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 1086717,
+      "sha256": "8f272ebf496ff9dc40c3faa201ac6cbed550fabd844a6d80288b08b1f375f73f"
+    },
+    {
+      "file": "04-dialogue.png",
+      "title": "一問一答與追問選項",
+      "caption": "可在第一輪結束，或繼續追問；對話字型、行距與選項重新排版。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 1015108,
+      "sha256": "fe21f03cc56e2e19859bbfed009a3199dd03c592367073f37fb171a1d6fbcd03"
+    },
+    {
+      "file": "05-evidence.png",
+      "title": "只保存實際問到的證詞",
+      "caption": "第一輪結束後，紀錄只含已問到的內容；自動收錄，底部可直接進入下一個證據。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 302727,
+      "sha256": "95fb5ea31add4c82e8a376c32067ee18327b3707738cab07c5a6248ea66d2b0c"
+    },
+    {
+      "file": "06-dna.png",
+      "title": "DNA 案的證物閱讀頁",
+      "caption": "直接閱讀報告圖像，移除證物頁額外的解讀提示、綠框與圖片標記方塊。",
+      "staged": true,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 473768,
+      "sha256": "bb9868e16511863d977a5dd7e9259403217b9ddf2eca35723c517fe49ede9f18"
+    },
+    {
+      "file": "07-youth.png",
+      "title": "少年案的指認照片",
+      "caption": "照片與五枚指印完整呈現；選一人或「都不選」都能繼續調查。",
+      "staged": true,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 320378,
+      "sha256": "04d7e167fb77e56d53605b946104e5a2d1d9579b483f1e7f34a85299a5fc636e"
+    },
+    {
+      "file": "08-court-desktop.png",
+      "title": "法庭：依原稿逐句發言",
+      "caption": "三案共十輪爭點，依文件的檢辯內容與順序發言；先聽完雙方，再選擇採信或保留。",
+      "staged": true,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 588990,
+      "sha256": "eed4009fcc95669c6a5ed6b9f84d7c8431ad5268a44f44c041e0815111c626f1"
+    },
+    {
+      "file": "09-court-mobile.png",
+      "title": "手機法庭與文字框",
+      "caption": "手機將人物排在發言上方，正文使用完整寬度；長文與操作按鈕保留在各自框內。",
+      "staged": true,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "bytes": 197547,
+      "sha256": "67fb6cd1abdd1727fac24d4d831a882b295413ff5ebe5768a169131c35b67a26"
+    },
+    {
+      "file": "10-direct-verdict.png",
+      "title": "檢辯後直接判決",
+      "caption": "拿掉判決理由勾選與二次確認，直接選擇有罪／無罪。",
+      "staged": true,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "bytes": 97558,
+      "sha256": "dee2fa5a68ad96d9cabfbac4c16c0ce27f1adf95e9ac9f0f2e1982c877bb3b89"
+    },
+    {
+      "file": "11-identification-choice.png",
+      "title": "少年案新增人物選擇",
+      "caption": "人物 1–6 與「都不選」共七個選項，手機兩欄排列。",
+      "staged": true,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "bytes": 254261,
+      "sha256": "e16ba93f981b3a2f3ad17c4dcc454cb662edee3b4d8d16cdd9eec1221dcaa3a2"
+    }
+  ]
+}
