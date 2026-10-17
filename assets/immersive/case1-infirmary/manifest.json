@@ -1,0 +1,135 @@
+{
+  "source": "tools/blender/build_horror_environments.py",
+  "generatorVersion": 4,
+  "seed": 19480318,
+  "blenderVersion": "4.5.8 LTS",
+  "coordinateSystem": "glTF Y-up; authored in Three.js metres",
+  "preJoinMeshCount": 164,
+  "meshNodes": 24,
+  "emptyNodes": 3,
+  "materials": [
+    "Architectural black trim",
+    "Black steel",
+    "Bleached fabric",
+    "Ceiling smoke stained",
+    "Charred dark wood",
+    "Cold steel",
+    "Cracked upholstery",
+    "Dead black",
+    "Dirty glass",
+    "Evidence paper",
+    "File accent",
+    "File shadow",
+    "File warning red",
+    "Floor damage",
+    "Floor deep grout",
+    "Floor worn",
+    "Heavy rust",
+    "Institution enamel",
+    "Old wood",
+    "Peeling painted steel",
+    "Rotten cork",
+    "Secondary practical light",
+    "Sick practical light",
+    "Stained porcelain",
+    "Tarnished brass",
+    "Wall aged",
+    "Wall lower damp",
+    "Wall mould and soot",
+    "Warning accent",
+    "Water damaged paper",
+    "Wet archive cardboard",
+    "Wet reflective floor"
+  ],
+  "vertices": 8500,
+  "triangles": 16332,
+  "bounds": {
+    "min": [
+      -6.54,
+      -0.1,
+      -7.54
+    ],
+    "max": [
+      6.825,
+      4.41,
+      7.54
+    ]
+  },
+  "hotspotAnchors": [
+    "ANCHOR_case1-infirmary_lab-folder",
+    "ANCHOR_case1-infirmary_medical-desk",
+    "ANCHOR_case1-infirmary_sample-tray"
+  ],
+  "collisionSource": "furniture-world-bounds",
+  "collisionBoxes": [
+    {
+      "id": "Work surface",
+      "minX": -3.795,
+      "maxX": -0.545,
+      "minZ": -1.77,
+      "maxZ": -0.27
+    },
+    {
+      "id": "Work surface.001",
+      "minX": 1.275,
+      "maxX": 3.825,
+      "minZ": 0.03,
+      "maxZ": 1.41
+    },
+    {
+      "id": "Shelf plane.004",
+      "minX": -6.005,
+      "maxX": -4.835,
+      "minZ": -5.265,
+      "maxZ": -2.215
+    },
+    {
+      "id": "Tall cabinet",
+      "minX": 4.525,
+      "maxX": 5.975,
+      "minZ": -5.215,
+      "maxZ": -4.185
+    },
+    {
+      "id": "Investigation chair seat",
+      "minX": -4.24,
+      "maxX": -3.56,
+      "minZ": 0.91,
+      "maxZ": 1.59
+    },
+    {
+      "id": "Investigation chair seat.001",
+      "minX": 4.31,
+      "maxX": 4.99,
+      "minZ": 0.96,
+      "maxZ": 1.64
+    },
+    {
+      "id": "Side document credenza",
+      "minX": -5.975,
+      "maxX": -5.125,
+      "minZ": 3.8,
+      "maxZ": 5.5
+    }
+  ],
+  "profileVersion": 2,
+  "environmentId": "case1-infirmary",
+  "archetype": "derelict-infirmary",
+  "horrorHook": "採樣試管與顯微鏡旁，報告上的「不排除」仍等待解讀。",
+  "realismTier": "imagegen-pbr-v1",
+  "materialAtlas": "assets/source/immersive/materials/horror-material-atlas-v1.png",
+  "pbrTextureSets": [
+    "aged-plaster",
+    "oxidized-steel",
+    "worn-hardwood",
+    "worn-terrazzo"
+  ],
+  "detailPass": "architectural-hardware-and-scene-signature-props-v1",
+  "glbBytes": 702764,
+  "optimization": {
+    "version": 1,
+    "tool": "@gltf-transform/cli 4.4.2",
+    "geometry": "EXT_meshopt_compression (medium)",
+    "textures": "EXT_texture_webp (quality 82)"
+  }
+}

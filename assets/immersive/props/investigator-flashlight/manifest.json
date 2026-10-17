@@ -1,0 +1,44 @@
+{
+  "source": "tools/blender/build_investigator_flashlight.py",
+  "generatorVersion": 2,
+  "assetType": "first-person gloved-hand flashlight viewmodel",
+  "pose": "static right-hand power grip",
+  "handSource": "Blender Studio Human Base Meshes v1.2.0 / Hand - Realistic",
+  "handSourceLicense": "CC0-1.0",
+  "blenderVersion": "4.5.8 LTS",
+  "coordinateSystem": "glTF Y-up; local -Z points forward",
+  "preJoinMeshCount": 18,
+  "meshNodes": 9,
+  "materials": [
+    "Evidence glove black nitrile",
+    "Evidence glove gathered cuff",
+    "Evidence glove raised seams",
+    "Flashlight black anodized aluminium",
+    "Flashlight recessed black switch",
+    "Flashlight rubber grip",
+    "Flashlight smoked lens",
+    "Flashlight worn steel details",
+    "Investigator coat dark fabric"
+  ],
+  "vertices": 16994,
+  "triangles": 33904,
+  "bounds": {
+    "min": [
+      -0.1047,
+      -0.1823,
+      -0.209
+    ],
+    "max": [
+      0.3571,
+      0.038,
+      0.4361
+    ]
+  },
+  "glbBytes": 359508,
+  "optimization": {
+    "version": 1,
+    "tool": "@gltf-transform/cli 4.4.2",
+    "geometry": "EXT_meshopt_compression (medium)",
+    "textures": "none"
+  }
+}

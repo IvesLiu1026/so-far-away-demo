@@ -1,0 +1,127 @@
+{
+  "source": "tools/blender/build_horror_environments.py",
+  "generatorVersion": 4,
+  "seed": 19480318,
+  "blenderVersion": "4.5.8 LTS",
+  "coordinateSystem": "glTF Y-up; authored in Three.js metres",
+  "preJoinMeshCount": 137,
+  "meshNodes": 23,
+  "emptyNodes": 2,
+  "materials": [
+    "Architectural black trim",
+    "Black steel",
+    "Bleached fabric",
+    "Ceiling smoke stained",
+    "Charred dark wood",
+    "Cold steel",
+    "Cracked upholstery",
+    "Dead black",
+    "Dirty glass",
+    "Evidence paper",
+    "File accent",
+    "File shadow",
+    "File warning red",
+    "Floor damage",
+    "Floor deep grout",
+    "Floor worn",
+    "Heavy rust",
+    "Institution enamel",
+    "Old wood",
+    "Peeling painted steel",
+    "Rotten cork",
+    "Secondary practical light",
+    "Sick practical light",
+    "Stained porcelain",
+    "Tarnished brass",
+    "Wall aged",
+    "Wall lower damp",
+    "Wall mould and soot",
+    "Warning accent",
+    "Water damaged paper",
+    "Wet archive cardboard",
+    "Wet reflective floor"
+  ],
+  "vertices": 8144,
+  "triangles": 15728,
+  "bounds": {
+    "min": [
+      -6.54,
+      -2.94,
+      -7.54
+    ],
+    "max": [
+      6.825,
+      4.91,
+      7.54
+    ]
+  },
+  "hotspotAnchors": [
+    "ANCHOR_case3-fire-scene_burn-mark",
+    "ANCHOR_case3-fire-scene_camera-still"
+  ],
+  "collisionSource": "furniture-world-bounds",
+  "collisionBoxes": [
+    {
+      "id": "Work surface",
+      "minX": -3.795,
+      "maxX": -0.545,
+      "minZ": -1.77,
+      "maxZ": -0.27
+    },
+    {
+      "id": "Work surface.001",
+      "minX": 1.275,
+      "maxX": 3.825,
+      "minZ": 0.03,
+      "maxZ": 1.41
+    },
+    {
+      "id": "Shelf plane.004",
+      "minX": -6.005,
+      "maxX": -4.835,
+      "minZ": -5.265,
+      "maxZ": -2.215
+    },
+    {
+      "id": "Tall cabinet",
+      "minX": 4.525,
+      "maxX": 5.975,
+      "minZ": -5.215,
+      "maxZ": -4.185
+    },
+    {
+      "id": "KTV sofa base",
+      "minX": -2.3,
+      "maxX": 2.1,
+      "minZ": -5.45,
+      "maxZ": -4.35
+    },
+    {
+      "id": "Karaoke television cabinet",
+      "minX": 4,
+      "maxX": 5.6,
+      "minZ": -2.95,
+      "maxZ": -2.25
+    }
+  ],
+  "profileVersion": 2,
+  "environmentId": "case3-fire-scene",
+  "archetype": "burned-forensics",
+  "horrorHook": "散落的酒瓶、包廂沙發與封鎖線，留下彼此不完全一致的射擊版本。",
+  "realismTier": "imagegen-pbr-v1",
+  "materialAtlas": "assets/source/immersive/materials/horror-material-atlas-v1.png",
+  "pbrTextureSets": [
+    "aged-plaster",
+    "oxidized-steel",
+    "worn-hardwood",
+    "worn-terrazzo"
+  ],
+  "detailPass": "architectural-hardware-and-scene-signature-props-v1",
+  "glbBytes": 581120,
+  "optimization": {
+    "version": 1,
+    "tool": "@gltf-transform/cli 4.4.2",
+    "geometry": "EXT_meshopt_compression (medium)",
+    "textures": "EXT_texture_webp (quality 82)"
+  }
+}

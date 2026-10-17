@@ -1,0 +1,169 @@
+{
+  "source": "tools/blender/build_horror_environments.py",
+  "generatorVersion": 4,
+  "seed": 19480318,
+  "blenderVersion": "4.5.8 LTS",
+  "coordinateSystem": "glTF Y-up; authored in Three.js metres",
+  "preJoinMeshCount": 197,
+  "meshNodes": 26,
+  "emptyNodes": 2,
+  "materials": [
+    "Architectural black trim",
+    "Black steel",
+    "Bleached fabric",
+    "Ceiling smoke stained",
+    "Charred dark wood",
+    "Cold steel",
+    "Cracked upholstery",
+    "Dead black",
+    "Dirty glass",
+    "Evidence paper",
+    "File accent",
+    "File shadow",
+    "File warning red",
+    "Floor damage",
+    "Floor deep grout",
+    "Floor worn",
+    "Heavy rust",
+    "Institution enamel",
+    "Old wood",
+    "Peeling painted steel",
+    "Rotten cork",
+    "Secondary practical light",
+    "Sick practical light",
+    "Stained porcelain",
+    "Tarnished brass",
+    "Wall aged",
+    "Wall lower damp",
+    "Wall mould and soot",
+    "Warning accent",
+    "Water damaged paper",
+    "Wet archive cardboard",
+    "Wet reflective floor"
+  ],
+  "vertices": 9812,
+  "triangles": 18824,
+  "bounds": {
+    "min": [
+      -6.54,
+      -0.315,
+      -7.54
+    ],
+    "max": [
+      6.825,
+      4.41,
+      7.54
+    ]
+  },
+  "hotspotAnchors": [
+    "ANCHOR_case2-teahouse_calendar",
+    "ANCHOR_case2-teahouse_clinic-note"
+  ],
+  "collisionSource": "furniture-world-bounds",
+  "collisionBoxes": [
+    {
+      "id": "Work surface",
+      "minX": -3.795,
+      "maxX": -0.545,
+      "minZ": -1.77,
+      "maxZ": -0.27
+    },
+    {
+      "id": "Work surface.001",
+      "minX": 1.275,
+      "maxX": 3.825,
+      "minZ": 0.03,
+      "maxZ": 1.41
+    },
+    {
+      "id": "Shelf plane.004",
+      "minX": -6.005,
+      "maxX": -4.835,
+      "minZ": -5.265,
+      "maxZ": -2.215
+    },
+    {
+      "id": "Tall cabinet",
+      "minX": 4.525,
+      "maxX": 5.975,
+      "minZ": -5.215,
+      "maxZ": -4.185
+    },
+    {
+      "id": "Sealed evidence carton.005",
+      "minX": -5.03,
+      "maxX": -4.37,
+      "minZ": -6.79,
+      "maxZ": -6.21
+    },
+    {
+      "id": "Sealed evidence carton.006",
+      "minX": -3.98,
+      "maxX": -3.32,
+      "minZ": -6.79,
+      "maxZ": -6.21
+    },
+    {
+      "id": "Sealed evidence carton.007",
+      "minX": -2.93,
+      "maxX": -2.27,
+      "minZ": -6.79,
+      "maxZ": -6.21
+    },
+    {
+      "id": "Sealed evidence carton.008",
+      "minX": -1.88,
+      "maxX": -1.22,
+      "minZ": -6.79,
+      "maxZ": -6.21
+    },
+    {
+      "id": "Sealed evidence carton.009",
+      "minX": -0.83,
+      "maxX": -0.17,
+      "minZ": -6.79,
+      "maxZ": -6.21
+    },
+    {
+      "id": "Investigation chair seat",
+      "minX": -4.24,
+      "maxX": -3.56,
+      "minZ": 0.91,
+      "maxZ": 1.59
+    },
+    {
+      "id": "Investigation chair seat.001",
+      "minX": 4.31,
+      "maxX": 4.99,
+      "minZ": 0.96,
+      "maxZ": 1.64
+    },
+    {
+      "id": "Side document credenza",
+      "minX": -5.975,
+      "maxX": -5.125,
+      "minZ": 3.8,
+      "maxZ": 5.5
+    }
+  ],
+  "profileVersion": 2,
+  "environmentId": "case2-teahouse",
+  "archetype": "abandoned-canteen",
+  "horrorHook": "排列整齊的封存箱中，發票原件的位置卻是空的。",
+  "realismTier": "imagegen-pbr-v1",
+  "materialAtlas": "assets/source/immersive/materials/horror-material-atlas-v1.png",
+  "pbrTextureSets": [
+    "aged-plaster",
+    "oxidized-steel",
+    "worn-hardwood",
+    "worn-terrazzo"
+  ],
+  "detailPass": "architectural-hardware-and-scene-signature-props-v1",
+  "glbBytes": 746996,
+  "optimization": {
+    "version": 1,
+    "tool": "@gltf-transform/cli 4.4.2",
+    "geometry": "EXT_meshopt_compression (medium)",
+    "textures": "EXT_texture_webp (quality 82)"
+  }
+}

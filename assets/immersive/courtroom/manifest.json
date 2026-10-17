@@ -1,0 +1,209 @@
+{
+  "source": "tools/blender/build_horror_environments.py",
+  "generatorVersion": 4,
+  "seed": 19480318,
+  "blenderVersion": "4.5.8 LTS",
+  "coordinateSystem": "glTF Y-up; authored in Three.js metres",
+  "preJoinMeshCount": 172,
+  "meshNodes": 24,
+  "emptyNodes": 1,
+  "materials": [
+    "Architectural black trim",
+    "Black steel",
+    "Bleached fabric",
+    "Ceiling smoke stained",
+    "Charred dark wood",
+    "Cold steel",
+    "Cracked upholstery",
+    "Dead black",
+    "Dirty glass",
+    "Evidence paper",
+    "File accent",
+    "File shadow",
+    "File warning red",
+    "Floor damage",
+    "Floor deep grout",
+    "Floor worn",
+    "Heavy rust",
+    "Institution enamel",
+    "Old wood",
+    "Peeling painted steel",
+    "Rotten cork",
+    "Secondary practical light",
+    "Sick practical light",
+    "Stained porcelain",
+    "Tarnished brass",
+    "Wall aged",
+    "Wall lower damp",
+    "Wall mould and soot",
+    "Warning accent",
+    "Water damaged paper",
+    "Wet archive cardboard",
+    "Wet reflective floor"
+  ],
+  "vertices": 8848,
+  "triangles": 16972,
+  "bounds": {
+    "min": [
+      -6.54,
+      -0.1,
+      -7.54
+    ],
+    "max": [
+      6.825,
+      5.36,
+      7.54
+    ]
+  },
+  "hotspotAnchors": [
+    "ANCHOR_courtroom_bench"
+  ],
+  "collisionSource": "furniture-world-bounds",
+  "collisionBoxes": [
+    {
+      "id": "Work surface",
+      "minX": -3.795,
+      "maxX": -0.545,
+      "minZ": -1.77,
+      "maxZ": -0.27
+    },
+    {
+      "id": "Work surface.001",
+      "minX": 1.3,
+      "maxX": 3.8,
+      "minZ": 0.045,
+      "maxZ": 1.395
+    },
+    {
+      "id": "Shelf plane.004",
+      "minX": -6.005,
+      "maxX": -4.835,
+      "minZ": -5.265,
+      "maxZ": -2.215
+    },
+    {
+      "id": "Tall cabinet",
+      "minX": 4.525,
+      "maxX": 5.975,
+      "minZ": -5.215,
+      "maxZ": -4.185
+    },
+    {
+      "id": "Judge dais",
+      "minX": -4.2,
+      "maxX": 4.2,
+      "minZ": -7.155,
+      "maxZ": -5.605
+    },
+    {
+      "id": "Judge high bench",
+      "minX": -2.7,
+      "maxX": 2.7,
+      "minZ": -7.11,
+      "maxZ": -6.33
+    },
+    {
+      "id": "Court column",
+      "minX": -4.95,
+      "maxX": -4.45,
+      "minZ": -7.15,
+      "maxZ": -6.65
+    },
+    {
+      "id": "Court column.001",
+      "minX": -2.85,
+      "maxX": -2.35,
+      "minZ": -7.15,
+      "maxZ": -6.65
+    },
+    {
+      "id": "Court column.002",
+      "minX": 2.35,
+      "maxX": 2.85,
+      "minZ": -7.15,
+      "maxZ": -6.65
+    },
+    {
+      "id": "Court column.003",
+      "minX": 4.45,
+      "maxX": 4.95,
+      "minZ": -7.15,
+      "maxZ": -6.65
+    },
+    {
+      "id": "Empty gallery bench",
+      "minX": -5.725,
+      "maxX": -3.975,
+      "minZ": 2.34,
+      "maxZ": 3.06
+    },
+    {
+      "id": "Empty gallery bench.001",
+      "minX": 3.975,
+      "maxX": 5.725,
+      "minZ": 2.34,
+      "maxZ": 3.06
+    },
+    {
+      "id": "Empty gallery bench.002",
+      "minX": -5.725,
+      "maxX": -3.975,
+      "minZ": 3.79,
+      "maxZ": 4.51
+    },
+    {
+      "id": "Empty gallery bench.003",
+      "minX": 3.975,
+      "maxX": 5.725,
+      "minZ": 3.79,
+      "maxZ": 4.51
+    },
+    {
+      "id": "Empty gallery bench.004",
+      "minX": -5.725,
+      "maxX": -3.975,
+      "minZ": 5.24,
+      "maxZ": 5.96
+    },
+    {
+      "id": "Empty gallery bench.005",
+      "minX": 3.975,
+      "maxX": 5.725,
+      "minZ": 5.24,
+      "maxZ": 5.96
+    },
+    {
+      "id": "Investigation chair seat",
+      "minX": -4.24,
+      "maxX": -3.56,
+      "minZ": 0.91,
+      "maxZ": 1.59
+    },
+    {
+      "id": "Side document credenza",
+      "minX": -5.975,
+      "maxX": -5.125,
+      "minZ": 3.8,
+      "maxZ": 5.5
+    }
+  ],
+  "profileVersion": 2,
+  "environmentId": "courtroom",
+  "archetype": "haunted-courtroom",
+  "horrorHook": "空無一人的審判席像仍在等待下一次落槌。",
+  "realismTier": "imagegen-pbr-v1",
+  "materialAtlas": "assets/source/immersive/materials/horror-material-atlas-v1.png",
+  "pbrTextureSets": [
+    "aged-plaster",
+    "oxidized-steel",
+    "worn-hardwood"
+  ],
+  "detailPass": "architectural-hardware-and-scene-signature-props-v1",
+  "glbBytes": 614308,
+  "optimization": {
+    "version": 1,
+    "tool": "@gltf-transform/cli 4.4.2",
+    "geometry": "EXT_meshopt_compression (medium)",
+    "textures": "EXT_texture_webp (quality 82)"
+  }
+}

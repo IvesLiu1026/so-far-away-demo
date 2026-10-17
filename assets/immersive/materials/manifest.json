@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "source": "assets/source/immersive/materials/horror-material-atlas-v1.png",
+  "sourceGenerator": "OpenAI ImageGen built-in tool",
+  "maps": {
+    "aged-plaster": {
+      "resolution": 512,
+      "albedo": "public/assets/immersive/materials/aged-plaster-albedo-v1.jpg",
+      "roughness": "public/assets/immersive/materials/aged-plaster-roughness-v1.jpg",
+      "normal": "public/assets/immersive/materials/aged-plaster-normal-v1.png",
+      "normalStrength": 2.15
+    },
+    "worn-terrazzo": {
+      "resolution": 512,
+      "albedo": "public/assets/immersive/materials/worn-terrazzo-albedo-v1.jpg",
+      "roughness": "public/assets/immersive/materials/worn-terrazzo-roughness-v1.jpg",
+      "normal": "public/assets/immersive/materials/worn-terrazzo-normal-v1.png",
+      "normalStrength": 1.35
+    },
+    "oxidized-steel": {
+      "resolution": 512,
+      "albedo": "public/assets/immersive/materials/oxidized-steel-albedo-v1.jpg",
+      "roughness": "public/assets/immersive/materials/oxidized-steel-roughness-v1.jpg",
+      "normal": "public/assets/immersive/materials/oxidized-steel-normal-v1.png",
+      "normalStrength": 1.8
+    },
+    "worn-hardwood": {
+      "resolution": 512,
+      "albedo": "public/assets/immersive/materials/worn-hardwood-albedo-v1.jpg",
+      "roughness": "public/assets/immersive/materials/worn-hardwood-roughness-v1.jpg",
+      "normal": "public/assets/immersive/materials/worn-hardwood-normal-v1.png",
+      "normalStrength": 1.55
+    }
+  }
+}
