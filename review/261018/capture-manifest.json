@@ -1,0 +1,151 @@
+{
+  "capturedAt": "2026-10-18T05:54:05.834Z",
+  "source": "http://127.0.0.1:5220/",
+  "note": "Unedited browser screenshots. Reduced-motion preference freezes animation. Staged progress is used only for evidence/court previews in an isolated browser; use the gameplay smoke for completion verification.",
+  "captures": [
+    {
+      "file": "01-cases.png",
+      "title": "三案選單",
+      "caption": "三份卷宗改為 KTV、DNA 鑑定、少年鬥毆；從首頁選案進入。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 1226004,
+      "sha256": "8eee6e6f74a07ae50f57b440ad9b5bcc7593c5e77ae8158268ac56faad790b66"
+    },
+    {
+      "file": "02-rules.png",
+      "title": "開始前先說明流程",
+      "caption": "先說明移動、互動、蒐證與進庭條件。此處規則說明仍可替換為企劃方提供的正式文案。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 695866,
+      "sha256": "9929ae16ec57ed0acf8b4b6be7b66d4e31ccff12c20ce32fa0790ad1ed9f5828"
+    },
+    {
+      "file": "03-investigation.png",
+      "title": "2D 現場調查",
+      "caption": "阿生案改為四件證物；收齊本案證物後才出現進入法庭的按鈕。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 1083588,
+      "sha256": "068addeae396122b7abab7b6d3fe4b9594c93dee63b8a1a38efc90c9e0806e6d"
+    },
+    {
+      "file": "04-dialogue.png",
+      "title": "一問一答與追問選項",
+      "caption": "可在第一輪結束，或繼續追問；對話字型、行距與選項重新排版。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 1011967,
+      "sha256": "5bfbdbcf49e2cd2477e8aceedda918cd474052359df5b0be8663ad7b0393de90"
+    },
+    {
+      "file": "05-evidence.png",
+      "title": "只保存實際問到的證詞",
+      "caption": "第一輪結束後，紀錄只含已問到的內容；自動收錄，底部可直接進入下一個證據。",
+      "staged": false,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 298323,
+      "sha256": "cb227cd641658d827af4a66318b826a38ee46bf2b19f1ebafe20296be73b97d1"
+    },
+    {
+      "file": "06-dna.png",
+      "title": "DNA 案的證物閱讀頁",
+      "caption": "直接閱讀報告圖像，移除證物頁額外的解讀提示、綠框與圖片標記方塊。",
+      "staged": true,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 519537,
+      "sha256": "eead89c5f14935b6d79ca5548235a3c2e88501688f30f223531ee176d7b01e98"
+    },
+    {
+      "file": "07-youth.png",
+      "title": "少年案的指認照片",
+      "caption": "照片與五枚指印完整呈現；選一人或「都不選」都能繼續調查。",
+      "staged": true,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 307403,
+      "sha256": "c24f56541ad13dd88afd46fe14bb2777ec3d00a8db850a41f82b604a8871a540"
+    },
+    {
+      "file": "08-court-desktop.png",
+      "title": "法庭：依原稿逐句發言",
+      "caption": "三案共十輪爭點，依文件的檢辯內容與順序發言；先聽完雙方，再選擇採信或保留。",
+      "staged": true,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 583238,
+      "sha256": "ccfc7ecf2e0c8e4a5061b32d37e539d3c9d15fda7e477eab5f5de1fcac748121"
+    },
+    {
+      "file": "09-court-mobile.png",
+      "title": "手機法庭與文字框",
+      "caption": "手機將人物排在發言上方，正文使用完整寬度；長文與操作按鈕保留在各自框內。",
+      "staged": true,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "bytes": 200477,
+      "sha256": "ac9b254883a56f036d355410131c550d2164a975a47d07df3d7ff0a65fbb6d06"
+    },
+    {
+      "file": "10-direct-verdict.png",
+      "title": "檢辯後直接判決",
+      "caption": "拿掉判決理由勾選與二次確認，直接選擇有罪／無罪。",
+      "staged": true,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "bytes": 96393,
+      "sha256": "c448becfd0f400bfab3b54ee6fee5588fecc4065e85c88e5b8225fd4a6b0bcae"
+    },
+    {
+      "file": "11-identification-choice.png",
+      "title": "少年案新增人物選擇",
+      "caption": "人物 1–6 與「都不選」共七個選項，手機兩欄排列。",
+      "staged": true,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "bytes": 254107,
+      "sha256": "012a1ffe1ded2b2dd999384d382fc51de47dea5b25d09e0b05f6f1f31acbeeba"
+    },
+    {
+      "file": "12-ballistics-report.png",
+      "title": "彈道報告：文件提供原圖",
+      "caption": "使用企劃方貼在 Google Docs 的兩頁報告；拼圖與證物閱讀使用同一張圖片。",
+      "staged": true,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "bytes": 723446,
+      "sha256": "db57eea7587b03d8624158bfca627298af9406a8ed0f757113d0d8f2490a9cd3"
+    }
+  ]
+}
