@@ -1,0 +1,24 @@
+{
+  "source": {
+    "name": "IMG_8575.MOV",
+    "driveId": "1DpNm2P1Wrq8eXeKCkvhVkRGmFzpoaI6n",
+    "bytes": 198959895,
+    "sha256": "50dbefe50c52741348dc22c48d135a2d630afbe989ed0dd42bc17188931f4050"
+  },
+  "video": {
+    "file": "youth-dv-20261029.mp4",
+    "bytes": 7886619,
+    "sha256": "5ed823b7c207db2b595e339b06a49d2c9ba12df49cca3eb9d7fecdb9f318a3d0",
+    "duration": 32.967,
+    "width": 1280,
+    "height": 720,
+    "codec": "h264",
+    "audioTracks": 0,
+    "hdrToSdr": true
+  },
+  "poster": {
+    "file": "youth-dv-20261029.webp",
+    "bytes": 36894,
+    "sha256": "d62fccac400f1300703275de65e89a99208657df32e07e298696a92ef1c03d26"
+  }
+}
