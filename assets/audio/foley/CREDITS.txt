@@ -1,0 +1,13 @@
+Recorded Foley for So Far Away
+
+StarNinjas — 10 Book Page Flips (2021), CC0 1.0
+https://opengameart.org/content/10-book-page-flips
+https://opengameart.org/users/starninjas
+
+Kenney — RPG Audio and Impact Sounds, CC0 1.0
+https://kenney.nl/assets/rpg-audio
+https://kenney.nl/assets/impact-sounds
+
+Processing: mono MP3 conversion, band limits and short fades.
+No generated music, synthetic fallback, or voice generation.
+License: https://creativecommons.org/publicdomain/zero/1.0/

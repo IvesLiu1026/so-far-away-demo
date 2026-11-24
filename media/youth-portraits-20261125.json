@@ -1,0 +1,48 @@
+{
+  "sourceDocument": "https://docs.google.com/document/d/1yMgzpl8mqiv_KUW7FJTOKwU4uKw-wD-TmFcAw0QPLIU",
+  "readDate": "2026-11-25",
+  "order": "Document paragraph element order; remaining two candidates use neutral SVG silhouettes by user request.",
+  "images": [
+    {
+      "file": "youth-person-1.webp",
+      "sha256": "f14e9f8a461ff2bed81231e1feb7a6559cf07653bac8fdda960a9cfa0cace4e2",
+      "sourceSha256": "3e40b88e1d266522ca723973847b292ca58eacdb1af83b3aad044c4a9c2253dd",
+      "bytes": 36108,
+      "inlineObjectId": "kix.lvxa0lg33k3q",
+      "tabId": "t.g0eglb9k8dwr"
+    },
+    {
+      "file": "youth-person-2.webp",
+      "sha256": "2fe7a18569cf1f4837650a053e492a6ca67e92438448a00bb44b36daf8650fef",
+      "sourceSha256": "9e2cd48a8970f39c6c4fa4b0c916a62085c1f01098d7be595a325f0a80ff53e5",
+      "bytes": 27040,
+      "inlineObjectId": "kix.56ge0f7kwjl5",
+      "tabId": "t.g0eglb9k8dwr"
+    },
+    {
+      "file": "youth-person-3.webp",
+      "sha256": "d2ecec39c12cc32c93501b45e866a6d95e10d524a7e450c87dadbfba2fccf945",
+      "sourceSha256": "39c7d6b4c59a0dc2bbd6ac4c5107b38e0e2afe15852c8098f5f73ed28df737a7",
+      "bytes": 28716,
+      "inlineObjectId": "kix.2g0oc5je1zt3",
+      "tabId": "t.g0eglb9k8dwr"
+    },
+    {
+      "file": "youth-person-4.webp",
+      "sha256": "213388e3420161c37ba6b9653952c5feafc8b671cdd7dd5640a655120089a994",
+      "sourceSha256": "5c3a068ef1e347dddd9bd5ee1f0c80ea0ce5085a6f2c26794eb866862d6d8ce8",
+      "bytes": 32256,
+      "inlineObjectId": "kix.hpugp34yhm7",
+      "tabId": "t.g0eglb9k8dwr"
+    },
+    {
+      "file": "youth-identification.webp",
+      "sha256": "eeeb40cf4e8d9667e35c3ceaca742b15610dba5c079464c7aa4f2682aeaec7b6",
+      "sourceSha256": "8cdab5f288c96eec4049e1395023eba55cf947e50a87627f76a8436f1493bf12",
+      "bytes": 1598590,
+      "inlineObjectId": "kix.mm7r1kk1wjsq",
+      "tabId": "t.24squ1m0ccq1"
+    }
+  ],
+  "documentRevision": "AHj4eMQDIFRPE4qbAEormqdi43mXzNeaX1vFJudFnFpEyWSevpQgNzLTqrUEbAM71Zn7P2K_RzCTkxgR4PhnTgv2CmHu-1xKNrAIWuJX4Ojv"
+}

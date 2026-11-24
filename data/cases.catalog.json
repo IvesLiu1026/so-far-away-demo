@@ -1,18 +1,18 @@
 [
   {
     "caseId": "case1",
-    "title": "DNA 鑑定案",
+    "title": "租屋處性侵疑雲",
     "subtitle": "一份寫著「不排除」的報告",
     "year": 2009,
-    "summary": "一場深夜的喝酒聚會，兩名女子醒來後，完全想不起昨晚發生了什麼。現場沒有監視器，也沒有人看見完整經過，唯一的線索，是一件沾有多人 DNA 的內褲。",
+    "summary": "一場深夜的喝酒聚會，兩名女子醒來後，完全想不起昨晚發生了什麼。\n現場沒有監視器，也沒有人看見完整經過，唯一的線索，是一件沾有多人 DNA 的內褲。\n但其中一組DNA的主人卻聲稱他當時根本不在案發現場\n你將扮演審理這起案件的法官。\n檢方、辯方、證人和鑑定報告，都會陸續出現在你面前。\n你的任務不是找出完美真相，而是在有限證據中，做出你認為最合理的判決。",
     "sourceRef": "https://docs.google.com/document/d/1yMgzpl8mqiv_KUW7FJTOKwU4uKw-wD-TmFcAw0QPLIU/edit"
   },
   {
     "caseId": "case2",
-    "title": "少年鬥毆案",
+    "title": "少年鬥毆事件",
     "subtitle": "五枚指印，一張照片",
     "year": 2004,
-    "summary": "一場少年鬥毆事件。觀看影片、聽取證詞，再作出判決。",
+    "summary": "一場單純的青少年聚眾鬥毆，竟演變成一死多傷的悲劇\n8個月後，現場證人們一致指認同一人為兇手，但他卻一再聲稱自己從未出現在案發現場\n你將扮演審理這起案件的法官。\n檢方、辯方、證人和鑑定報告，都會陸續出現在你面前。\n你的任務不是找出完美真相，而是在有限證據中，做出你認為最合理的判決。",
     "sourceRef": "https://docs.google.com/document/d/1yMgzpl8mqiv_KUW7FJTOKwU4uKw-wD-TmFcAw0QPLIU/edit"
   },
   {
@@ -20,7 +20,7 @@
     "title": "十三號包廂槍響",
     "subtitle": "兩把槍、三顆彈頭與一段自白",
     "year": 2002,
-    "summary": "深夜，一間KTV包廂發生槍戰，混亂之中導致一名員警殉職。案發現場的兩把槍、三顆子彈、數名證人，究竟誰才是真正開槍的兇手？",
+    "summary": "深夜，一間KTV包廂發生槍戰，混亂之中導致一名員警殉職。案發現場的兩把槍、三顆子彈、數名證人，究竟誰才是真正開槍的兇手？\n你是一名即將審理重大槍擊命案的法官。\n案件中的物證與人證都將陸續呈現，請依照指示蒐集證據、閱讀證據的內容，並做出你認為最公正的判決。",
     "sourceRef": "https://docs.google.com/document/d/1yMgzpl8mqiv_KUW7FJTOKwU4uKw-wD-TmFcAw0QPLIU/edit"
   }
 ]

@@ -1,0 +1,57 @@
+[
+  {
+    "file": "paper-1.mp3",
+    "author": "StarNinjas",
+    "source": "https://opengameart.org/content/10-book-page-flips",
+    "sourceFile": "book_flip.2.ogg",
+    "license": "CC0-1.0",
+    "sha256": "a4122531292609175a994fa83683f8814c59531651c910034998e59a8691d0aa",
+    "bytes": 19270,
+    "processing": "mono 44.1kHz MP3; high/low-pass and 6/35ms fades; no synthesis or pitch change",
+    "sourceSha256": "4f4fa078fe4ed48f0f8ac8dd4039cefbba83baeb5a60272d68e9fa0fa925e0dc"
+  },
+  {
+    "file": "paper-2.mp3",
+    "author": "StarNinjas",
+    "source": "https://opengameart.org/content/10-book-page-flips",
+    "sourceFile": "book_flip.5.ogg",
+    "license": "CC0-1.0",
+    "sha256": "1562d9e78264c1f714fbdaefaf2853d0d62fd50365ca75aae6bac7114acebef6",
+    "bytes": 15090,
+    "processing": "mono 44.1kHz MP3; high/low-pass and 6/35ms fades; no synthesis or pitch change",
+    "sourceSha256": "3fd510b29e52ea6f47a87472707d1e159b09dfeada5ae9e25a3525071ecc2a6a"
+  },
+  {
+    "file": "folder.mp3",
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/rpg-audio",
+    "sourceFile": "Audio/bookClose.ogg",
+    "license": "CC0-1.0",
+    "sha256": "f7a64c703b6219a09e7d10b4e54992f0aa6838067235e5aa29f8a2309dfd7e0b",
+    "bytes": 5059,
+    "processing": "mono 44.1kHz MP3; high/low-pass and 6/35ms fades; no synthesis or pitch change",
+    "sourceSha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32"
+  },
+  {
+    "file": "wood-soft.mp3",
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "sourceFile": "Audio/impactWood_light_001.ogg",
+    "license": "CC0-1.0",
+    "sha256": "ebfda4c9da07e51c23ca3d3337b72ceeaa533e391b09cf7b10cd5e0056bd507e",
+    "bytes": 5477,
+    "processing": "mono 44.1kHz MP3; high/low-pass and 6/35ms fades; no synthesis or pitch change",
+    "sourceSha256": "4b76bf3ccc8e60d19188f3165b778a7817786faa6887c55d9049bcbeef3b425f"
+  },
+  {
+    "file": "wood-stamp.mp3",
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "sourceFile": "Audio/impactWood_medium_001.ogg",
+    "license": "CC0-1.0",
+    "sha256": "9a39f7496600740844da6abf4f1804e2cb2e71dc867ba4b5056cbe8b77acef3e",
+    "bytes": 6731,
+    "processing": "mono 44.1kHz MP3; high/low-pass and 6/35ms fades; no synthesis or pitch change",
+    "sourceSha256": "15271dbe8e2872dbb0ff1aeb7b12b2d2b92b7c1951c88532b9ab9158c36dfc73"
+  }
+]
